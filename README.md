@@ -103,3 +103,5 @@ variance issues in this data when choosing your algorithm.
 
 
 **Warning:** All the analysis in the notebooks are made in Portuguese, I plan to translate everything to English in the near future.
+
+To know more about the Kaggle competition access this link: https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
