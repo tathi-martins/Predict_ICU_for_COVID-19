@@ -100,3 +100,6 @@ variance issues in this data when choosing your algorithm.
 ![foto3](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1591620%2Fb1bc424df771a4d2d3b3088606d083e6%2FTimeline%20Example%20Best.png?generation=1594740856017996&alt=media)
 
 ![foto4](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1591620%2F77ca2b4635bc4dd7800e1c777fed9de1%2FTimeline%20Example%20No.png?generation=1594740873237462&alt=media)
+
+
+**Warning:** All the analysis in the notebooks are made in Portuguese, I plan to translate everything to English in the near future.
