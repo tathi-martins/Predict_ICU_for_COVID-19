@@ -1,6 +1,6 @@
 Neste artigo, vamos fazer uma exploração dos dados do hospital Sírio-Libanês, que requisitou ajuda pra criar um modelo de machine learning que identifique quais pacientes com COVID-19 irão para a UTI e quais não irão para a UTI, lançando um desafio na plataforma de ciência de dados e inteligência artificial, Kaggle.
 
-Primeiramente quem estiver interessado em ver os códigos usados na análise exploratória dos dados e ver como eu trabalhei os dados para obter as respostas acesse o meu notebook por este link []().
+Primeiramente quem estiver interessado em ver os códigos usados na análise exploratória dos dados e ver como eu trabalhei os dados para obter as respostas acesse o meu notebook por este [link](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Analise_exploratoria_projeto_final.ipynb).
 
 # **Quantos pacientes foram para a UTI em cada janela temporal?**
 
@@ -28,15 +28,12 @@ Com este gráfico podemos ver que quanto maior a idade, maior a chance de ir par
 
 
 
-Há mais homens na UTI, mas como o percentual é muito não podemos afirmar se isto é uma observação relevante ou se é apenas uma coincidência que há mais homens internados na UTI neste hospital. Para uma conclusão definitiva precisaríamos de mais dados, vindos de outros hospitais também.
+Há mais homens na UTI, mas como o percentual é pequeno não podemos afirmar se isto é uma observação relevante ou se é apenas uma coincidência que há mais homens internados na UTI neste hospital. Para uma conclusão definitiva precisaríamos de mais dados, vindos de outros hospitais também.
 
 
 
 # **Qual foi a média de idade dos pacientes homens e mulheres que foram para a UTI?**
 
-![foto5](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Imagens/Captura%20de%20Tela%20(1690).png)
-
-![foto6](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Imagens/Captura%20de%20Tela%20(1691).png)
 
 **Contexto:**
 
@@ -53,12 +50,22 @@ Há mais homens na UTI, mas como o percentual é muito não podemos afirmar se i
 -- 1 -> Representa os que foram para a UTI.
 
 
+![foto5](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Imagens/Captura%20de%20Tela%20(1690).png)
+
+Média total de pacientes acima de 65 anos que foram e que não foram para UTI, separados pelo sexo.
+
+
+![foto6](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Imagens/Captura%20de%20Tela%20(1691).png)
+
+A média da idade dos pacientes homens e mulheres que foram internados na UTI.
+
+
 
 ![foto7](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Imagens/Captura%20de%20Tela%20(1692).png)
 
 
 
-Neste gráfico podemos ver que a média de idade de pacientes que foram para a UTI é bem diferente, com a diferença em torno de uma década entre os homens e mulheres. Não sabemos se isso é uma característica relevante ou que se repete em outros hospitais.
+Neste gráfico podemos ver que a média de idade dos pacientes que foram para a UTI é bem diferente, os homens são em torno de 10 anos mais novos do que as mulheres. Não sabemos se isso é uma característica relevante ou que se repete em outros hospitais.
 
 
 
@@ -168,7 +175,7 @@ O impacto desta doença parece ser maior nas faixas etárias mais altas, com exc
 
 ![foto15](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Imagens/Captura%20de%20Tela%20(1701).png)
 
-
+O gráfico nos mostra que apenas os pacientes portadores da Disease Grouping 6 com idades acima dos 40 anos parecem correr mais riscos de serem internados na UTI.
 
 # **Conclusão:**
 
