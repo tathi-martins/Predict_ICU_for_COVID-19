@@ -54,6 +54,7 @@ to fit between -1 and 1.
 ICU should be considered the target variable. 
 
 **Window Concept**
+
 Data engineering team included real life cenarios inside time window of events and all the available data of each patient are divided by this concept. So, all the patients 
 data are aggregated by windows in chronological order, as we can se in the table bellow:
 
@@ -86,7 +87,7 @@ In total there are 54 features, expanded when pertinent to the mean, median, max
 **Missing data**
 
 Problem: One of the major challenges of working with health care data is that the sampling rate varies across different type of measurements. For instance, vital signs are 
-sampled more frequently (usually hourly) than blood labs (usually daily), because of this there are many missing data, but how I dealed with them is further explained in the
+sampled more frequently (usually hourly) than blood labs (usually daily), because of this, there are many missing data, but how I dealed with them is further explained in the
 exploratory analysis.
 
 
