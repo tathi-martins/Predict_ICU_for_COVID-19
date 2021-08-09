@@ -1,6 +1,6 @@
 ![foto1](https://bkt-sa-east-1-cms-drupal.s3.sa-east-1.amazonaws.com/alta.com.br/assets/2021-03/primeiros%20sintomas%20da%20covid.JPG?8XPG_O6cw8X8RFeXiGBp1YuowBZITuy4)
 
-# **COVID-19 - Using Machine Learning to assess diagnosis. Using Sírio-Libanês data available in Kaggle.** 
+# **COVID-19 - Machine Learning to assess diagnosis. Using Sírio-Libanês data available in Kaggle.** 
 
 ## **Knowing Sírio-Libanês hospital better**
 Sociedade Beneficiente de Senhoras Sírio-Libanês is commited to philanthropy and science to deliver better health outcomes to those in need. One of Brazil's top hospitals, 
