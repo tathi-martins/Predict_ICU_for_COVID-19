@@ -106,3 +106,31 @@ variance issues in this data when choosing your algorithm.
 **Warning:** All the analysis in the notebooks are made in Portuguese, I plan to translate everything to English in the near future.
 
 To know more about the Kaggle competition access this link: https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
+
+***********************************************************************************************************************************************************************
+
+# **Índice**
+
+- **Análise exploratória:**
+
+-- [Versão ipynb](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Analise_exploratoria_projeto_final.ipynb)
+
+-- [Versão markdown](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Analise_Exploratoria/Analise_exploratoria_projeto_final.md)
+
+- **Modelagem de Machine Learning:**
+
+-- [Versão completa](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Modelos_ML/modelos_ml_projeto_final.ipynb)
+
+-- [Etapa de pre-processamento de dados](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Modelos_ML/preprocessamento_de_dados_e_modelo_baseline.ipynb)
+
+-- [Etapa de features selection](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Modelos_ML/features_selection.ipynb)
+
+-- [Selecionando Hiperparâmetros](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Modelos_ML/selecionando_hiperparametros.ipynb)
+
+-- [Modelos]()
+
+-- [Selecioando os melhores modelos]()
+
+-- [Gráficos de desempenho]()
+
+-- [Conclusão]()
