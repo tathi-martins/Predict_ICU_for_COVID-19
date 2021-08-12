@@ -127,9 +127,7 @@ To know more about the Kaggle competition access this link: https://www.kaggle.c
 
 -- [Selecionando Hiperparâmetros](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/blob/main/Notebooks/Modelos_ML/selecionando_hiperparametros.ipynb)
 
--- [Modelos]()
-
--- [Selecioando os melhores modelos]()
+-- [Modelos](https://github.com/tathi-martins/Predict_ICU_for_COVID-19/tree/main/Notebooks/Modelos_ML)
 
 -- [Gráficos de desempenho]()
 
